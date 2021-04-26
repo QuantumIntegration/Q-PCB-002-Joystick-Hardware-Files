@@ -165,7 +165,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.YnVzaW5lc3M6cXVhbnR1bWh0aQ" projecturn="a.YnVzaW5lc3M6cXVhbnR1bWh0aSMyMDIwMDUxOTI5OTUwMjAwMQ" f3durn="urn:adsk.wipprod:dm.lineage:vLugv9azSqmVspwxpW6vTQ" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="0da4dfd9-3ac9-4849-9da0-c8990a4432eb" lastsyncedrevisionid="0da4dfd9-3ac9-4849-9da0-c8990a4432eb" lastboardhashguid="1a67e295-c2d6-85cd-916d-d450fb4af58a" lastpushedtime="2021-01-20T18:37:03Z" linktopcb3d="true"/>
+<fusionsync huburn="a.YnVzaW5lc3M6cXVhbnR1bWh0aQ" projecturn="a.YnVzaW5lc3M6cXVhbnR1bWh0aSMyMDIwMDUxOTI5OTUwMjAwMQ" f3durn="urn:adsk.wipprod:dm.lineage:vLugv9azSqmVspwxpW6vTQ" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="0da4dfd9-3ac9-4849-9da0-c8990a4432eb" lastsyncedrevisionid="0da4dfd9-3ac9-4849-9da0-c8990a4432eb" lastboardhashguid="1a67e295-c2d6-85cd-916d-d450fb4af58a" lastpushedtime="2021-01-20T18:37:03Z" linktopcb3d="false"/>
 <plain>
 <wire x1="44" y1="28" x2="44" y2="68" width="0.1524" layer="47" grouprefs="BB"/>
 <wire x1="44" y1="68" x2="99" y2="68" width="0.1524" layer="47" grouprefs="BB"/>
@@ -1677,7 +1677,7 @@ einem neuen Namen ab.</description>
 <attribute name="NAME" x="69.968" y="33.151" size="1.27" layer="25" ratio="10" align="center"/>
 <attribute name="VALUE" x="67.968" y="32.706" size="1.27" layer="27" ratio="10"/>
 </element>
-<element name="C1" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" package="E2-4" package3d_urn="urn:adsk.eagle:package:21734552/2" value="100n" x="62" y="30" smashed="yes" rot="R270">
+<element name="C1" library="Quantum Projects" library_urn="urn:adsk.eagle:library:19630877" package="E2-4" package3d_urn="urn:adsk.eagle:package:21734552/2" value="220n" x="62" y="30" smashed="yes" rot="R270">
 <attribute name="NAME" x="65.54" y="30.016" size="1.27" layer="25" ratio="10" align="center"/>
 <attribute name="VALUE" x="59.841" y="27.46" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
